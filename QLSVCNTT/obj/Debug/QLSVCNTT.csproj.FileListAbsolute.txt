@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\bin\Debug\QLSVCNTT.exe.config
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\bin\Debug\QLSVCNTT.exe
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\bin\Debug\QLSVCNTT.pdb
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\obj\Debug\QLSVCNTT.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\obj\Debug\QLSVCNTT.FrmDetailSV.resources
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\obj\Debug\QLSVCNTT.FrmSV.resources
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\obj\Debug\QLSVCNTT.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\obj\Debug\QLSVCNTT.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\obj\Debug\QLSVCNTT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\obj\Debug\QLSVCNTT.exe
+C:\Users\Admin\source\repos\QLSVCNTT\QLSVCNTT\obj\Debug\QLSVCNTT.pdb
